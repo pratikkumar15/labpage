@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 # To create submenu use identifier and parent https://docs.hugoblox.com/getting-started/customize/#menu-items
 main:
-  - name: Tour
+  - name: Research
     url: tour
     weight: 10
   - name: News
