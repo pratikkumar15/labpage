@@ -4,18 +4,41 @@ title:
 date: 2022-10-24
 type: landing
 
+
 sections:
+#  - block: hero
+#    content:
+#      title:
+#      text: <br><br><br><br><br>
+#    design:
+#       background:
+#          video: 
+#            filename: beaker.mp4
+#            object-fit: none
+          
   - block: hero
     content:
       title: |
-        <p style="font-size: 1.45rem; font-weight: bold;"> Chemigenetic tools for biological labeling </p>
+        <p style="font-size: 2.0rem; font-weight: bold;"> Chemical tools for biology </p>
       image: 
         filename: 'welcome.jpg'
         alt_text: "NIR dye in a flask"
       text: |
         <br>
-        We  build chemigenetic tools to image and manipulate biology by combining dye chemistry or click chemistry with genetic labeling strategies. We collaborate widely to generate tools for solving different biological problems.
+        We combine dye chemistry and click chemistry with genetic labeling strategies or optics to build tools for imaging and manipulating biology. We collaborate widely to generate tools for solving different biological problems.
         <p></p><p></p>We are currently hiring at all levels. Work in our lab integrates chemistry (organic synthesis, optical chemistry), spectroscopy, biomolecular labeling, and imaging. We put a strong emphasis on honing career-development skills.
+#    design:
+#        background:
+#          video: 
+#            filename: beaker.mp4
+#            filters:
+#              brightness: 1
+#          parallax: false
+#          position: center
+#          size: cover
+#          text_color_light: false
+  
+  
 
   - block: collection
     content:
@@ -40,7 +63,7 @@ sections:
     # The gradient angle from 0-360 degrees
     #    gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    #    text_color_light: true
+      text_color_light:
       view: citation
       columns: '1'
   
