@@ -45,6 +45,7 @@
 
 title: Publications
 
+share: true
 # Listing view
 view: citation
 # view options are list, card, citation and compact. https://docs.hugoblox.com/getting-started/page-builder/#listing-view
@@ -55,4 +56,5 @@ banner:
   image: ''
 #  image: 'publications.png'
 ---
-
+*A <a href="https://asapbio.org/preprint-info/preprint-faq" target="_blank">preprint</a> is a scientific manuscript that has not yet been formally peer reviewed.*
+<p>

@@ -45,7 +45,7 @@
 
 title: Patents
 
-
+share: true
 # Listing view
 view: citation
 # view options are list, card, citation and compact. https://docs.hugoblox.com/getting-started/page-builder/#listing-view

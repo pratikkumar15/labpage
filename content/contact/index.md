@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |
-        **You can use this page to email us or inquire about the open positions**
+        **You can use this page to email us**
       email: name[@]ncbs.res.in
       phone: 91
       address:

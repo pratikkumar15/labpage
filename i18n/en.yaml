@@ -154,10 +154,10 @@
 # Contact widget
 
 - id: contact_name
-  translation: Name
+  translation: Your name
 
 - id: contact_email
-  translation: Email
+  translation: Your email address
 
 - id: contact_message
   translation: Message

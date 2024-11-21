@@ -32,9 +32,10 @@ abstract: As a neurotransmitter, the amino acid glutamate has been the subject o
 summary:
 
 tags:
-- Bioorthogonal Neurotransmitter
+- Neurotransmitter
 - Cyclopropene
 - Cyclopropene Glutamate
+- Caged compounds
 featured: false
 
 # links:

@@ -25,9 +25,9 @@ abstract: The bioorthogonal reaction toolbox contains approximately two-dozen un
 summary:
 
 tags:
-- Caged Cyclopropene
+- Caged compounds
 - Cyclopropene
-- Tetrazine Ligation
+- Tetrazine
 - Activatable Bioorthogonal Reaction
 featured: false
 
@@ -65,6 +65,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
