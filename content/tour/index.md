@@ -8,37 +8,79 @@ sections:
   - block: slider
     content:
       slides:
-      - title: '*Near infrared multifunctional dyes*'
-        content: '*Live cell imaging and manipulation of proteins*'
+      - title: '*Multifunctional dyes*'
+        content: '*Live cell near-infrared imaging and manipulation of proteins*'
         align: left
         background:
           image:
-            filename: pic1.jpeg
+            filename: 1.jpeg
             focus: smart
             filters:
               brightness: 0.8
           position: right
 #          color: '#666666'
-      - title: '*Visible light photocages*'
-        content: '*Identifying functional receptors without genetic modifications*'
+        link:
+#          icon: graduation-cap
+#          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+      - title: '*Photocaged compounds*'
+        content: '*Optically controlling biological activity*'
         align: left
         background:
           image:
-            filename: photocages.jpg
+            filename: 2.jpg
             filters:
               brightness: 0.8
           position: left
-          color: '#555'
-      - title: '*Novel proximity agents*'
-        content: '*Chemically induced proximity of proteins*'
+#          color: '#555'
+        link:
+#          icon: graduation-cap
+#          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+      - title: '*Translocation agents*'
+        content: '*Chemically induced translocation of proteins*'
         align: left
         background:
           image:
-            filename: other.jpg
+            filename: 3.jpeg
             filters:
               brightness: 0.8
-          position: center
-          color: '#333'
+          position: left
+#          color: '#333'
+        link:
+#          icon: graduation-cap
+#          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+      - title: '*Glycan dyes*'
+        content: '*Imaging sugars on and around the cells*'
+        align: left
+        background:
+          image:
+            filename: 4.jpeg
+            focus: smart
+            filters:
+              brightness: 0.8
+          position: right
+#          color: '#666666'
+        link:
+#          icon: graduation-cap
+#          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+      - title: '*Bioorthogonal dyes*'
+        content: '*Imaging biomolecules without genetic tags*'
+        align: left
+        background:
+          image:
+            filename: 5.jpeg
+            focus: smart
+            filters:
+              brightness: 0.8
+          position: right
+#          color: '#666666'
         link:
 #          icon: graduation-cap
 #          icon_pack: fas
