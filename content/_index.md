@@ -108,4 +108,19 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the Team →" %}}
     design:
       columns: '1'
+
+  - block: collection
+    content:
+      filters:
+        folders:
+          - blank
+    design:
+      background:
+        image: 
+          filename: NCBS.png
+          size: auto
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
 ---
