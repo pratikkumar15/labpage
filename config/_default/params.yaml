@@ -35,19 +35,25 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
+    fixed_to_top: true
+#    logo:
+      # Logo text
+#      text: "Kumar Research Group"
+      # Logo filename in `assets/media/` folder
+#      filename: "icon1.jpg"
+    show_logo: true #making this false will remove Kumar research group from navbar
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+#    notice: 'Pratik Kumar © {year}. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false #making this true will display open-source licenses
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -100,7 +106,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 18
 
 # Extensions
 
