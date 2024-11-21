@@ -19,7 +19,7 @@ main:
   - name: Patents
     url: patent
     weight: 50
-  - name: OpenProbes
+  - name: OpenTools
     url: opentool
     weight: 60
   - name: Contact
