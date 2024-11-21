@@ -67,14 +67,14 @@ sections:
   - block: collection
     content:
       title: Latest Preprints
-      text: ""
+      text: '*A <a href="https://asapbio.org/preprint-info/preprint-faq" target="_blank">preprint</a> is a scientific manuscript that is uploaded by the authors but has not yet been formally peer reviewed*<br><br>'
       count: 5
       filters:
         folders:
           - publication
         publication_type: 'article'
     design:
-      view: card
+      view: citation
       columns: '1'
 
   - block: markdown

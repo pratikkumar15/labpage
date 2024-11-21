@@ -46,7 +46,7 @@
 title: Publications
 
 # Listing view
-view: card
+view: citation
 # view options are list, card, citation and compact. https://docs.hugoblox.com/getting-started/page-builder/#listing-view
 
 # Optional banner image (relative to `assets/media/` folder).
