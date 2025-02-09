@@ -26,10 +26,10 @@ doi: "10.1038/s41592-024-02590-2"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["article"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Methods*,"
+publication: "*Nature Methods*"
 publication_short: ""
 
 abstract: All multicellular systems produce and dynamically regulate extracellular matrices (ECM) that play essential roles in both biochemical and mechanical signaling. Though the spatial arrangement of these extracellular assemblies is critical to their biological functions, visualization of ECM structure is challenging, in part because the biomolecules that compose the ECM are difficult to fluorescently label individually and collectively. Here, we present a cell-impermeable small molecule fluorophore, termed Rhobo6, that turns on and red shifts upon reversible binding to glycans. Given that most ECM components are densely glycosylated, the dye enables wash-free visualization of ECM, in systems ranging from in vitro substrates to in vivo mouse mammary tumors. Relative to existing techniques, Rhobo6 provides a broad substrate profile, superior tissue penetration, nonperturbative labeling, and negligible photobleaching. This work establishes a straightforward method for imaging the distribution of ECM in live tissues and organisms, lowering barriers for investigation of extracellular biology.
