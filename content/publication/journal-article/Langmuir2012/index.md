@@ -32,15 +32,14 @@ abstract: The development of novel antimicrobial agents having high selectivity 
 summary:
 
 tags:
-- Biodegradable Bactericidals
-- Gemini Surfactants
+- Bactericidals
 - Cationic Surfactants
 featured: false
 
 links:
  - name: Indian News
    url: bit.ly/2t5yzJT
-url_pdf: ''
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdapgtrnFAOqjwZNA?e=6gc1jU'
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/la302303d/suppl_file/la302303d_si_001.pdf'
 url_poster: ''
@@ -62,7 +61,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- geminisurfactant
+- surfactant
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

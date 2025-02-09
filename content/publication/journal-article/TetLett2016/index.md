@@ -38,9 +38,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150495/
+url_pdf: https://1drv.ms/b/s!AqTKeAPfE7aNgZdh3xUjk3Ds8g5NBQ?e=AY2AOR
 url_code: ''
-url_dataset: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150495/bin/NIHMS985383-supplement-Supporting_Information.pdf'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

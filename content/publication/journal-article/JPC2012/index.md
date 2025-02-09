@@ -30,15 +30,14 @@ abstract: The micellar aggregation of different amide bearing cleavable gemini s
 summary:
 
 tags:
-- Biodegradable Bactericidals
-- Gemini Surfactants
+- Bactericidals
 - Cationic Surfactants
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdWyZGyeCDjtxd6WA?e=oDnDkI'
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/jp305590f/suppl_file/jp305590f_si_001.pdf'
 url_poster: ''
@@ -60,7 +59,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- geminisurfactant
+- surfactant
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
