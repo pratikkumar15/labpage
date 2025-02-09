@@ -48,7 +48,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pratikkumar@outlook.com'
-  - icon: bluesky-brands-solid
+  - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/dyechemist.bsky.social
   - icon: google-scholar
