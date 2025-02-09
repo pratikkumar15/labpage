@@ -43,9 +43,9 @@ tags:
 - Imaging
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: bioRxiv
+   url: https://www.biorxiv.org/content/10.1101/2024.05.09.593460v1.full
 url_pdf: 'https://www.nature.com/articles/s41592-024-02590-2.pdf'
 url_code: ''
 #url_dataset: ''

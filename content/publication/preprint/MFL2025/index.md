@@ -40,6 +40,8 @@ featured: false
 links:
  - name: preLights
    url: https://doi.org/10.1242/prelights.32549
+ - name: bioRxiv
+   url: https://www.biorxiv.org/content/10.1101/2022.07.02.498544v2.full
 url_pdf: ''
 url_code: ''
 url_dataset: 'https://www.biorxiv.org/content/10.1101/2022.07.02.498544v2.supplementary-material'
