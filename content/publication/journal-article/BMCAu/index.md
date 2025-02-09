@@ -32,17 +32,16 @@ abstract: Small-molecule fluorescent stains enable the imaging of cellular struc
 summary:
 
 tags:
-- Fluorophore
+- Coumarin
 - Stain
 - Mitochondria
-- Imaging
 
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://pubs.acs.org/doi/epdf/10.1021/acsbiomedchemau.1c00068?ref=article_openPDF'
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/acsbiomedchemau.1c00068/suppl_file/bg1c00068_si_001.pdf'
 url_poster: ''
@@ -64,7 +63,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- tools
+- Stain
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -39,10 +39,10 @@ tags:
 - Chemigenetic imaging
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.12.30.573644v1.full.pdf+html'
+links:
+ - name: bioRxiv
+   url: https://www.biorxiv.org/content/10.1101/2023.12.30.573644v1.full.pdf+html
+url_pdf: ''
 url_code: ''
 #url_dataset: ''
 url_poster: ''
