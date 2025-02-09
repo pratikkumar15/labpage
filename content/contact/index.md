@@ -20,9 +20,9 @@ sections:
         country: India
         country_code: IN
       coordinates:
-        latitude: '13.070897'
-        longitude: '77.5805947'
-      directions: ELS Building, 3rd Floor
+        latitude: '13.07112'
+        longitude: '77.58110'
+      directions: ELC, 3rd Floor
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
