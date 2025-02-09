@@ -49,7 +49,7 @@ social:
     icon_pack: fas
     link: 'mailto:pratikkumar@outlook.com'
   - icon: bluesky
-    icon_pack: fab
+    icon_pack: fa-brands fa-bluesky
     link: https://bsky.app/profile/dyechemist.bsky.social
   - icon: google-scholar
   - icon: twitter
