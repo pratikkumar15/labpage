@@ -29,7 +29,6 @@ abstract: Cyclic enamines are important synthons for many synthetic and pharmaco
 summary:
 
 tags:
-- Cyclic Enamine
 - Spirocyclopropyls
 - Cyclopropene
 featured: false
@@ -37,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdg8FjEURkNYwDSXw?e=1fQREe'
 url_code: ''
 url_dataset: 'http://www.rsc.org/suppdata/c7/ob/c7ob02659e/c7ob02659e1.pdf'
 url_poster: ''
@@ -59,7 +58,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- spirocyclopropyl
+- synthesis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

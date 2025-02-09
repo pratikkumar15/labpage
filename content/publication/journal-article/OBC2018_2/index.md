@@ -36,13 +36,13 @@ tags:
 - Caged compounds
 - Cyclopropene
 - Tetrazine
-- Activatable Bioorthogonal Reaction
+- Bioorthogonal
 featured: false
 
 links:
  - name: RSC Blog
    url: https://blogs.rsc.org/ob/2018/06/08/reactivity-caging-strategy-for-controlling-bioorthogonal-reactivity/
-url_pdf: ''
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdXA-WpV973wI6KPw?e=mwm7uj'
 url_code: ''
 url_dataset: 'http://www.rsc.org/suppdata/c8/ob/c8ob01076e/c8ob01076e1.pdf'
 url_poster: ''
