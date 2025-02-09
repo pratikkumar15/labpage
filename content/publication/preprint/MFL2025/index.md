@@ -34,7 +34,9 @@ summary:
 
 tags:
 - Multifunctional fluorescent ligands
-- Genetic labeling
+- Rhodamine
+- HaloTag
+- Dye–Protein
 featured: false
 
 links:

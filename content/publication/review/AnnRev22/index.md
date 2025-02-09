@@ -33,9 +33,10 @@ summary:
 
 tags:
 - Fluorophore
-- Chemigenetic imaging
+- Rhodamine
 - Imaging
 - Neuroscience
+- Dye–Protein
 featured: true
 
 # links:
@@ -63,8 +64,8 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mfd
-- tools
+- mfl
+- neuroscience
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

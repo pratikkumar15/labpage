@@ -33,10 +33,9 @@ summary:
 
 tags:
 - Fluorogen
-- Split tags
-- Dimerizers
+- Dimerizer
 - Imaging
-- Chemigenetic imaging
+- Dye–Protein
 featured: true
 
 links:
@@ -64,8 +63,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mfd
-- tools
+- fluorogen
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

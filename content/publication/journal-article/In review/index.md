@@ -39,17 +39,17 @@ abstract: Different spatial or temporal protein populations, such as cell-surfac
 summary:
 
 tags:
-- Fluorophore
-- Chemigenetic imaging
-- Imaging
+- Rhodamine
 - HaloTag
 - Neuroscience
+- Receptor Imaging
+- Dye–Protein
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'http://www.annualreviews.org/eprint/REGKYVNE4KVWXECQBEA6/full/10.1146/annurev-neuro-110520-030031'
+url_pdf: ''
 url_code: ''
 #url_dataset: ''
 url_poster: ''
@@ -71,8 +71,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mfd
-- tools
+- mfl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

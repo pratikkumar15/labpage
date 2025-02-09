@@ -34,7 +34,7 @@ summary:
 tags:
 - Coumarin
 - Stain
-- Mitochondria labeling
+- Mitochondria
 
 featured: true
 
@@ -64,6 +64,7 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects:
 - Stain
+- coumarin
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
