@@ -1,7 +1,7 @@
 ---
 title: "Optimizing multifunctional fluorescent ligands for intracellular labeling"
 authors:
-- Pratik Kumar
+- admin
 - Jason D. Vevea
 - Ariana N. Tkachuk
 - Kirby Campbell
@@ -33,7 +33,7 @@ abstract: Enzyme-based self-labeling tags enable covalent attachment of syntheti
 summary:
 
 tags:
-- Fluorophore
+- Multifunctional fluorescent ligands
 - Genetic labeling
 featured: false
 
@@ -42,6 +42,8 @@ links:
    url: https://doi.org/10.1242/prelights.32549
  - name: bioRxiv
    url: https://www.biorxiv.org/content/10.1101/2022.07.02.498544v2.full
+ - name: Janelia News
+   url: https://www.janelia.org/news/next-generation-janelia-fluor-dyes-do-more-than-just-shine
 url_pdf: ''
 url_code: ''
 url_dataset: 'https://www.biorxiv.org/content/10.1101/2022.07.02.498544v2.supplementary-material'
@@ -64,7 +66,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mfd
+- mfl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

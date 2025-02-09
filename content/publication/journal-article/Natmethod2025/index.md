@@ -8,7 +8,7 @@ authors:
 - Thomas A. Ravenscroft
 - Richard Ikegami
 - Wiert Kolkman
-- Pratik Kumar
+- admin
 - Tanya L. Dilan
 - Virginia M.S. Ruetten
 - Misha B. Ahrens
