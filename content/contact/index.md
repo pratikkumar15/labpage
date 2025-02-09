@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '13.071406531558969'
         longitude: '77.58027996863052'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 3
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
@@ -37,15 +37,15 @@ sections:
 #      autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
-    design:
-      columns: '1'
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#          # Enable CAPTCHA challenge to reduce spam?
+#          captcha: true
+#    design:
+#      columns: '1'
 
 #  - block: markdown
 #    content:
