@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdlALaibtCQOYfaKw?e=iIm3QA'
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdlALaibtCQOYfaKw?e=bJyMEr'
 url_code: ''
 url_dataset: ''
 url_poster: ''

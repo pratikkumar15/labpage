@@ -36,13 +36,13 @@ tags:
 - Caged compounds
 - Cyclopropene
 - Tetrazine
-- Activatable Bioorthogonal Reaction
+- Bioorthogonal
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdZOY5Cwy_rUMk7KA?e=oeqnyb'
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.9b01177/suppl_file/ol9b01177_si_001.pdf'
 url_poster: ''

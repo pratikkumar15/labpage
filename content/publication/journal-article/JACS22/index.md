@@ -40,7 +40,7 @@ featured: false
 links:
  - name: Cornell News
    url: https://as.cornell.edu/news/lipid-expansion-microscopy-uses-power-click-chemistry
-url_pdf: ''
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdct6TsJj0R2qhLcQ?e=0ce6SE'
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/jacs.2c03743/suppl_file/ja2c03743_si_001.pdf'
 url_poster: ''
@@ -63,7 +63,6 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects:
 - rhodamines
-- expansion
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

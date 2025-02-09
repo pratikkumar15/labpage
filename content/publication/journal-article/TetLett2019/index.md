@@ -33,15 +33,14 @@ summary:
 
 tags:
 - Neurotransmitter
-- Cyclopropene
-- Cyclopropene Glutamate
+- Cyclopropeneß
 - Caged compounds
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdVtsHjpAnsAmtapQ?e=QnQWFf'
 url_code: ''
 url_dataset: 'https://ars.els-cdn.com/content/image/1-s2.0-S004040391930406X-mmc1.pdf'
 url_poster: ''
@@ -63,7 +62,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- bioorthogonal neurotransmitter
+- cyclopropeneneurotransmitter
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -36,13 +36,12 @@ summary:
 tags:
 - Cyclopropene
 - Lipids
-- Spirocyclopropyls
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190722/
+url_pdf: https://1drv.ms/b/s!AqTKeAPfE7aNgZdffS1Baoa1XR2aWQ?e=J9YAHp
 url_code: ''
 url_dataset: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190722/bin/NIHMS986752-supplement-SI.pdf'
 url_poster: ''
@@ -64,8 +63,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- spirocyclopropyl
-- cagedcyclopropene
+- synthesis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

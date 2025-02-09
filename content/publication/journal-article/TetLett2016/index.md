@@ -30,8 +30,7 @@ summary:
 
 tags:
 - Neurotransmitter
-- Cyclopropene
-- Cyclopropene Glutamate
+- Cyclopropeneß
 - Caged compounds
 featured: false
 
