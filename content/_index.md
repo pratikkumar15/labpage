@@ -25,8 +25,8 @@ sections:
         alt_text: "NIR dye in a flask"
       text: |
         <br>
-        We combine dye chemistry, click chemistry, and labeling strategies to build tools for imaging and manipulating biology.
-        <p></p><p></p>We are currently hiring at all levels. Work in our lab integrates organic chemistry, photochemistry, spectroscopy, biomolecular labeling, and imaging.
+        We integrate dye chemistry, click chemistry, and labeling strategies to build modern tools for imaging and manipulating biological processes.
+        <p></p><p></p> Work in our lab encompasses organic chemistry, photochemistry, spectroscopy, biomolecular labeling, and imaging. We collaborate with a range of biologists to generate technologies that tackle complex biological questions. <i>We are currently seeking candidates at all levels to join our team.</i>
 #    design:
 #        background:
 #          video: 
