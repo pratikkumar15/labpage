@@ -1,11 +1,11 @@
 ---
-title: Kumar lab will open at NCBS
-date: 2024-11-14
+title: Lab is open!
+date: 2025-02-20
 image:
   focal_point: 'smart'
 ---
 
-The lab will start at NCBS–TIFR in March 2025!
+The lab has opened its doors at NCBS–TIFR!
 
 <!--more-->
-We are hiring at all levels. Please get in touch with Pratik to check about open positions or chat about collaborative projects.
+We are currently seeking candidates at all levels to join our team. Please get in touch with Pratik with to check about open positions (send your CV), or chat about collaborative projects.
