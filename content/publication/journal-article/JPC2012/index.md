@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdWyZGyeCDjtxd6WA?e=oDnDkI'
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdaPCsFsyWf8KP2mA?e=pbgJrp'
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/jp305590f/suppl_file/jp305590f_si_001.pdf'
 url_poster: ''

@@ -39,7 +39,7 @@ featured: false
 links:
  - name: Indian News
    url: bit.ly/2t5yzJT
-url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdapgtrnFAOqjwZNA?e=6gc1jU'
+url_pdf: 'https://1drv.ms/b/s!AqTKeAPfE7aNgZdaPCsFsyWf8KP2mA?e=G80pCg'
 url_code: ''
 url_dataset: 'https://pubs.acs.org/doi/suppl/10.1021/la302303d/suppl_file/la302303d_si_001.pdf'
 url_poster: ''
