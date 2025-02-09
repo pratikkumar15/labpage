@@ -34,7 +34,7 @@ summary:
 tags:
 - Coumarin
 - Stain
-- Mitochondria
+- Mitochondria labeling
 
 featured: true
 

@@ -34,7 +34,7 @@ tags:
 - Fluorophore
 - Expansion imaging
 - Lipids
-- Imaging
+- Rhodamines
 featured: false
 
 links:
@@ -62,8 +62,8 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- tools
-- mfd
+- rhodamines
+- expansion
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
