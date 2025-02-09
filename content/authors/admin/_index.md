@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.ncbs.res.in/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include using small molecule probes to visualize and manipulate biological processess.
+bio: I use small molecule probes to visualize and manipulate biological processess.
 
 interests:
   - Chemigenetic labeling
@@ -48,6 +48,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pratikkumar@outlook.com'
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/dyechemist.bsky.social
+  - icon: google-scholar
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/prat_i_k
