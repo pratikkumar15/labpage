@@ -9,10 +9,10 @@ sections:
     content:
       title: Contact
       text: |
-        **Delivery Address**
+        National Centre for Biological Sciences–Tata Institute of Fundamental Research
       email: name[at]ncbs.res.in
       phone: 91
-      address: National Centre for Biological Sciences–Tata Institute of Fundamental Research
+      address:
         street: Bellary Road
         city: Bengaluru
         region: Karnataka
