@@ -26,7 +26,7 @@ sections:
       text: |
         <br>
         We integrate dye chemistry, click chemistry, and biomolecular labeling strategies to build modern tools for imaging and manipulating biology.
-        <p></p><p></p> Work in our lab encompasses organic chemistry, photochemistry, spectroscopy, enzymatic and chemical labeling, and imaging. We collaborate with a range of biologists to generate technologies that tackle complex biological questions. 
+        <p></p><p></p> Work in our lab encompasses organic chemistry, photochemistry, spectroscopy, enzymatic and chemical labeling, and imaging. We collaborate with a range of biologists to generate novel technologies for probing complex biological questions. 
         <p></p><p></p><b><i>We are currently seeking candidates at all levels to join our team.</i></b>
 #    design:
 #        background:
