@@ -26,7 +26,7 @@ sections:
       text: |
         <br>
         We combine dye chemistry, click chemistry, and labeling strategies to build tools for imaging and manipulating biology. We collaborate widely for probing distinct biological problems.
-        <p></p><p></p>We are currently hiring at all levels. Work in our lab integrates chemistry (organic synthesis, optical chemistry), spectroscopy, biomolecular labeling, and imaging. We put a strong emphasis on honing career-development skills.
+        <p></p><p></p>We are currently hiring at all levels. Work in our lab integrates organic chemistry, photochemistry, spectroscopy, biomolecular labeling, and imaging.
 #    design:
 #        background:
 #          video: 
