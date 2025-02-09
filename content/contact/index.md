@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |
-        **You can use this page to email us**
-      email: name[@]ncbs.res.in
+        **Delivery Address**
+      email: name[at]ncbs.res.in
       phone: 91
       address:
         street: National Centre for Biological Sciences
@@ -20,9 +20,9 @@ sections:
         country: India
         country_code: IN
       coordinates:
-        latitude: '13.071406531558969'
-        longitude: '77.58027996863052'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 3
+        latitude: '13.070897'
+        longitude: '77.5805947'
+      directions: ELS Building, 3rd Floor
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
@@ -36,7 +36,7 @@ sections:
       # Automatically link email and phone or display as text?
 #      autolink: true
     
-      # Email form provider
+  # Email form provider. Enable the section below to have email form on the website
 #      form:
 #        provider: netlify
 #        formspree:
