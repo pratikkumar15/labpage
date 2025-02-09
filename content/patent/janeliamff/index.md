@@ -29,10 +29,10 @@ abstract: The application discloses a compound having a moiety that is either an
 summary:
 
 tags:
-- Caged Cyclopropene
+- Caged compounds
 - Cyclopropene
-- Tetrazine Ligation
-- Activatable Bioorthogonal Reaction
+- Tetrazine
+- Bioorthogonal
 featured: false
 
 # links:
