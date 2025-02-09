@@ -25,7 +25,7 @@ sections:
         alt_text: "NIR dye in a flask"
       text: |
         <br>
-        We combine dye chemistry, click chemistry, and labeling strategies to build tools for imaging and manipulating biology. We collaborate widely for probing distinct biological problems.
+        We combine dye chemistry, click chemistry, and labeling strategies to build tools for imaging and manipulating biology.
         <p></p><p></p>We are currently hiring at all levels. Work in our lab integrates organic chemistry, photochemistry, spectroscopy, biomolecular labeling, and imaging.
 #    design:
 #        background:
