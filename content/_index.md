@@ -19,13 +19,13 @@ sections:
   - block: hero
     content:
       title: |
-        <p style="font-size: 2.0rem; font-weight: bold;"> Imaging tools for biology </p>
+        <p style="font-size: 2.0rem; font-weight: bold;"> Chemical tools for biology </p>
       image: 
         filename: 'welcome.jpg'
         alt_text: "NIR dye in a flask"
       text: |
         <br>
-        We combine dye chemistry and click chemistry with genetic labeling strategies or optics to build tools for imaging and manipulating biology. We collaborate widely to generate tools for solving different biological problems.
+        We combine dye chemistry, click chemistry, and labeling strategies to build tools for imaging and manipulating biology. We collaborate widely for probing distinct biological problems.
         <p></p><p></p>We are currently hiring at all levels. Work in our lab integrates chemistry (organic synthesis, optical chemistry), spectroscopy, biomolecular labeling, and imaging. We put a strong emphasis on honing career-development skills.
 #    design:
 #        background:
