@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |
-        National Centre for Biological Sciences–Tata Institute of Fundamental Research
+        **National Centre for Biological Sciences–Tata Institute of Fundamental Research**
       email: name[at]ncbs.res.in
       phone: 91
       address:
@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '13.07112'
         longitude: '77.58110'
-      directions: ELC, 3rd Floor
+      directions: ELC, 3rd Floor, Room 26
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
