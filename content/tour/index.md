@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: '*Multifunctional dyes*'
+      - title: '*Multifunctional fluorescent ligands*'
         content: '*Live cell near-infrared imaging and manipulation of proteins*'
         align: left
         background:
@@ -25,7 +25,7 @@ sections:
           text: Join Us
           url: ../contact/
       - title: '*Photocaged compounds*'
-        content: '*Optically controlling biological activity*'
+        content: '*Optically control of biological activity*'
         align: left
         background:
           image:
@@ -71,7 +71,7 @@ sections:
           text: Join Us
           url: ../contact/
       - title: '*Bioorthogonal dyes*'
-        content: '*Imaging biomolecules without genetic tags*'
+        content: '*Imaging biomolecules with minimalistic tags*'
         align: left
         background:
           image:
