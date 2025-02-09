@@ -12,8 +12,8 @@ sections:
         **Delivery Address**
       email: name[at]ncbs.res.in
       phone: 91
-      address:
-        street: National Centre for Biological Sciences
+      address: National Centre for Biological Sciences–Tata Institute of Fundamental Research
+        street: Bellary Road
         city: Bengaluru
         region: Karnataka
         postcode: '560065'
