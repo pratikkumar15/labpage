@@ -19,7 +19,7 @@ sections:
   - block: hero
     content:
       title: |
-        <p style="font-size: 2.0rem; font-weight: bold;"> Chemical tools for biology </p>
+        <p style="font-size: 2.0rem; font-weight: bold;"> Imaging tools for biology </p>
       image: 
         filename: 'welcome.jpg'
         alt_text: "NIR dye in a flask"
