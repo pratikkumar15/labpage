@@ -101,6 +101,19 @@ sections:
       view: citation
       columns: '1'
 
+  - block: collection
+    content:
+      title: Latest Peer-Reviewed Publications
+      text: ''
+      count: 2
+      filters:
+        folders:
+          - publication
+        publication_type: 'journal-article'
+    design:
+      view: citation
+      columns: '1'
+
   - block: markdown
     content:
       title:
