@@ -56,5 +56,8 @@ banner:
   image: ''
 #  image: 'publications.png'
 ---
-*A <a href="https://asapbio.org/preprint-info/preprint-faq" target="_blank">preprint</a> is a scientific manuscript that has not yet been formally peer reviewed.*
-<p>
+<div style="height: 20px; display: block;"></div>
+<center><i>Use the dropdown buttons to filter publications by year or type</i></b></center>
+<div style="height: 30px; display: block;"></div>
+
+

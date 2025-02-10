@@ -19,8 +19,8 @@ main:
   - name: Patents
     url: patent
     weight: 50
-  - name: OpenTools
-    url: opentool
+  - name: OpenReagents
+    url: openreagent
     weight: 60
   - name: Contact
     url: contact

@@ -90,29 +90,29 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
-      text: '*A <a href="https://asapbio.org/preprint-info/preprint-faq" target="_blank">preprint</a> is a scientific manuscript that has not yet been formally peer reviewed*<br><br>'
-      count: 5
+      title: Latest Publications
+#      text: '*A <a href="https://asapbio.org/preprint-info/preprint-faq" target="_blank">preprint</a> is a scientific manuscript that has not yet been formally peer reviewed*<br><br>'
+      count: 3
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: ''
     design:
       view: citation
       columns: '1'
 
-  - block: collection
-    content:
-      title: Latest Peer-Reviewed Publications
-      text: ''
-      count: 2
-      filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
-    design:
-      view: citation
-      columns: '1'
+#  - block: collection
+#    content:
+#      title: Latest Peer-Reviewed Publications
+#      text: ''
+#      count: 2
+#      filters:
+#        folders:
+#          - publication
+#        publication_type: 'article-journal'
+#    design:
+#      view: citation
+#      columns: '1'
 
   - block: markdown
     content:
