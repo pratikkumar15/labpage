@@ -131,8 +131,8 @@ sections:
     design:
       background:
         image: 
-          filename: NCBS.png
-          size: auto
+          filename: ncbstifr.png
+          size: 25%
           filters:
             brightness: 1
           parallax: false

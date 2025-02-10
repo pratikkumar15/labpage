@@ -38,9 +38,9 @@ header:
     fixed_to_top: true
     logo:
       # Logo text
-#      text: "Kumar Research Group"
+#      text: ""
       # Logo filename in `assets/media/` folder
-#      filename: "lablogo.jpeg"
+#      filename: "lablogo.png"
     show_logo: true #making this false will remove group name from navbar
     show_language: false
     show_day_night: true
