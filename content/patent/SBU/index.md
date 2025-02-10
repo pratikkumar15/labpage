@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
-publication: "WO2020113077"
+publication: "US-12194023-B2"
 publication_short: ""
 
 abstract: The present invention provides a compound having the structure- Formula (I) wherein R1 is H or a protecting group; R2 and R3 are each independently H, halo, C1-C6 alkyl, C2-C6 alkenyl, C2-C6 alkynyl, C1-C6 alkyl-C(O)NHR6, C1-C6 alkyl-C(O)OR6, wherein R6 is H, C1-C6 alkyl, C2-C6 alkenyl or C2-C6 alkynyl, or R2 and R3 combine to form a 3-7 membered cycloalkyl, heterocycloalkyl, aryl or heteroaryl ring; and R4 and R5 are each independently halo.
@@ -29,16 +29,18 @@ abstract: The present invention provides a compound having the structure- Formul
 summary:
 
 tags:
-- Caged Cyclopropene
+- Caged compounds
 - Cyclopropene
-- Tetrazine Ligation
-- Activatable Bioorthogonal Reaction
+- Tetrazine
+- Bioorthogonal
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://patents.google.com/patent/WO2020113077A1/en?oq=WO2020113077'
+links:
+ - name: "US PTO"
+   url: "https://ppubs.uspto.gov/dirsearch-public/patents/html/12194023?source=USPAT&requestToken=eyJzdWIiOiJhMjk1MzA1NS1jMWYzLTQyNTMtOGExYy1iZWIxOWY2MzMxNjQiLCJ2ZXIiOiI2OWYzNWNlMC0wOWU2LTRjZGQtYWFhYi1kZGUwZDQzNjUwMzUiLCJleHAiOjB9"
+ - name: "Google Patents"
+   url: "https://patents.google.com/patent/WO2020113077A1/en?oq=WO2020113077"
+url_pdf: 'https://ppubs.uspto.gov/dirsearch-public/print/downloadBasicPdf/12194023?requestToken=eyJzdWIiOiJhMjk1MzA1NS1jMWYzLTQyNTMtOGExYy1iZWIxOWY2MzMxNjQiLCJ2ZXIiOiI2OWYzNWNlMC0wOWU2LTRjZGQtYWFhYi1kZGUwZDQzNjUwMzUiLCJleHAiOjB9'
 url_code: ''
 url_dataset: ''
 url_poster: ''

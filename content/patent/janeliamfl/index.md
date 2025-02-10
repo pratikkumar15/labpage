@@ -29,15 +29,15 @@ abstract: The application discloses a compound having a moiety that is either an
 summary:
 
 tags:
-- Caged compounds
-- Cyclopropene
-- Tetrazine
-- Bioorthogonal
+- Multifunctional fluorescent ligands
+- Rhodamine
+- HaloTag
+- Dye–Protein
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: "Google Patents"
+   url: "https://patents.google.com/patent/US20240239818A1/en"
 url_pdf: 'https://patents.google.com/patent/US20240239818A1/en'
 url_code: ''
 url_dataset: ''
@@ -60,7 +60,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- cagedcyclopropene
+- mfl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -28,10 +28,8 @@ abstract: Compounds useful for biotin-free proximity labeling are provided. Also
 summary:
 
 tags:
-- Caged Cyclopropene
-- Cyclopropene
-- Tetrazine Ligation
-- Activatable Bioorthogonal Reaction
+- HaloTag
+- Dye–Protein
 featured: false
 
 # links:
@@ -59,7 +57,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- cagedcyclopropene
+- mfl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
