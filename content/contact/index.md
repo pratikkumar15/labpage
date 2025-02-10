@@ -66,4 +66,19 @@ sections:
 #      spacing:
 #        padding: ['20px', '0', '20px', '0']
 #      css_class: fullscreen
+
+#  - block: collection
+#    content:
+#      filters:
+#        folders:
+#          - blank
+#    design:
+#      background:
+#        image: 
+#          filename: ncbstifr.png
+#          size: 20%
+#          filters:
+#            brightness: 1
+#          parallax: false
+#          position: center 
 ---

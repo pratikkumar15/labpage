@@ -27,7 +27,7 @@ date: "2024-09-28T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 # publication_types: ['paper-conference']
-publication_types: ["Uncategorized"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*In Review*"
