@@ -1,5 +1,5 @@
 ---
-title: Openreagent
+title: OpenReagents
 
 
 # Listing view
@@ -11,7 +11,6 @@ banner:
   caption: ''
   image: ''
 ---
-<br>**Page under construction** 
 <br>
 
-Please vist this page later to check on tools from our lab avaiable for "*free*" for academic purposes. Also, feel free to contact us to request a specifc chemical tool.
+<center>Please vist this page later to request reagents from our lab available for academic research.</center>

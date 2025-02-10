@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Group News
 
 
 # Listing view

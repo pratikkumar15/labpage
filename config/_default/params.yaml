@@ -36,12 +36,12 @@ header:
     enable: true
     align: c
     fixed_to_top: true
-#    logo:
+    logo:
       # Logo text
 #      text: "Kumar Research Group"
       # Logo filename in `assets/media/` folder
-#      filename: "icon1.jpg"
-    show_logo: true #making this false will remove Kumar research group from navbar
+#      filename: "lablogo.jpeg"
+    show_logo: true #making this false will remove group name from navbar
     show_language: false
     show_day_night: true
     show_search: true
